@@ -26,11 +26,13 @@ nav .menu-img{
     margin-right: 20px;
     margin-left: 10px;
     cursor: pointer;
+    position: relative;
 }
 
 nav .logo{
     width: 160px;
     cursor: pointer;
+    position: relative;
 }
 
 nav ul{
@@ -54,7 +56,7 @@ nav ul li a{
 }
 
 .image-container{
-    position: fixed;
+    position: relative;
 }
 
 
