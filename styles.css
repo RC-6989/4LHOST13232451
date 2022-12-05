@@ -62,7 +62,8 @@ nav ul li a{
     max-width:600px;
     margin-top: 10%;
     margin-left: 55%;
-    position: absolute;
+    position: relative;
+    display: flex;
 }
 
 .text-container h1{
