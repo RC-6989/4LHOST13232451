@@ -54,7 +54,8 @@ nav ul li a{
 }
 
 .image-container{
-    position: absolute;
+    position: relative;
+    float: left;
 }
 
 
