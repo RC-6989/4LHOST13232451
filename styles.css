@@ -61,8 +61,7 @@ nav ul li a{
 .text-container{
     max-width:600px;
     margin-top: 10%;
-    border-left: 20px;
-    position: fixed;
+    margin-left: 45%;
 }
 
 .text-container h1{
