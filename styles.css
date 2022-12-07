@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-
+/* Initialization */
 .main{
     background: #fff;
     min-height: 100vh;
@@ -14,11 +14,11 @@
     position: relative;
 }
 
+/* Main nav toolbar class */
 nav{
     display: flex;
     align-items: center;
-    padding: 0px 10
-    px;
+    padding: 0px 10px;
 }
 
 nav .menu-img{
@@ -31,6 +31,8 @@ nav .menu-img{
 nav .logo{
     width: 160px;
     cursor: pointer;
+    scale: 50%;
+    /*margin-top: auto;*/
 }
 
 nav ul{
