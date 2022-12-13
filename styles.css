@@ -74,13 +74,13 @@ nav ul li a{
 @media only screen and (max-width:1000px) {
 
     .image-container{
-        width:500px;
+        width:300px;
     }
 
     .text-container{
         max-width: 400px;
         margin-top: 0%;
-        margin-left: 15%;
+        margin-left: 10%;
         display:block;
         float: left;
         clear: left;
